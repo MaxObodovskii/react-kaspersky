@@ -1,4 +1,6 @@
-# Тестовое задание
+# Тестовое задание на стажера в Kaspersky
+
+### Вы можете перейти по ссылке и посмотреть данное приложение [React Kaspersky](https://maxobodovskii.github.io/react-kaspersky/).
 
 ### Задание:
 
