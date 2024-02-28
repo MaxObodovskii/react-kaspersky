@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-kaspersky/static/css/main.5f7b5e53.css",
+    "main.js": "/react-kaspersky/static/js/main.e581fb45.js",
+    "index.html": "/react-kaspersky/index.html",
+    "main.5f7b5e53.css.map": "/react-kaspersky/static/css/main.5f7b5e53.css.map",
+    "main.e581fb45.js.map": "/react-kaspersky/static/js/main.e581fb45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7b5e53.css",
+    "static/js/main.e581fb45.js"
+  ]
+}
